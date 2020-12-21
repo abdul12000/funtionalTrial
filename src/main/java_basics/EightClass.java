@@ -24,8 +24,10 @@ public class EightClass {
         cars.add("Lambogini");
         cars.add("Tesla");
         cars.add("Pegout");
+        cars.add("ten");
+        cars.add("pot");
 
-        System.out.println(cars.size());
+        System.out.println("size is : " + cars.size());
 
 //        int count =0;
 
